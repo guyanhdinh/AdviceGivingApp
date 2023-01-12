@@ -81,3 +81,10 @@ footer {
     color: hsl(150, 100%, 66%);
     text-shadow: .5px .5px hsl(150, 100%, 66%);
 }
+
+@media screen and (max-width: 750px) {
+    div {
+        width: 90%;
+    }
+    
+}
